@@ -1,0 +1,8 @@
+cd ..
+cd venv
+cd scripts
+activate
+cd ..
+cd ..
+cd test
+python test.py
